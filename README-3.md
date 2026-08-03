@@ -64,10 +64,4 @@ Project Brief -> Head Planner -> Research Agent -> MCP Server -> Analyst -> Stra
 | Agent Reasoning | Moderate | Advanced |
 | Integrations | Excellent | Good |
 
-### Screenshot Placeholders
-- screenshots/n8n_workflow.png
-- screenshots/crewai_execution.png
-- screenshots/google_doc.png
-- screenshots/mcp_server.png
 
-Expand each section with your project-specific screenshots and outputs as needed.
